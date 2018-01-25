@@ -1,11 +1,10 @@
 # PDRB per Kapita
-Product domestic regional bruto (PDRB) per kapita
 
 [![Join the chat at https://gitter.im/pdrb-per-kapita/Lobby](https://badges.gitter.im/pdrb-per-kapita/Lobby.svg)](https://gitter.im/pdrb-per-kapita/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/pdrb-per-kapita/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/pdrb-per-kapita/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/pdrb-per-kapita/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/pdrb-per-kapita/build-status/master)
 
-Product domestic regional bruto (PDRB) atas dasar harga berlaku
+Product domestic regional bruto (PDRB) per kapita
 
 #### Cara install :
 
