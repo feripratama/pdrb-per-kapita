@@ -1,106 +1,36 @@
 [
-    {
-      "chartdata": {
-        "grafik": [
-          {
-            "2010": [
-              {
-                "Tahun":"2010",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "T2010": "271.465,3"
-              },
-              {
-                "Tahun":"2010",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "T2010": "6.864.133,1"
-              }
-            ],
-            "2011": [
-              {
-                "Tahun":"2011",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "T2011": "306.174,3"
-              },
-              {
-                "Tahun":"2011",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "T2011": "7.831.726,0"
-              }
-            ],
-            "2012": [
-              {
-                "Tahun":"2012",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "data": "338.224,9"
-              },
-              {
-                "Tahun":"2012",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "data": "8.615.704,5"
-              }
-            ],
-            "2013": [
-              {
-                "Tahun":"2013",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "data": "377.836,1"
-              },
-              {
-                "Tahun":"2013",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "data": "9.546.134,0"
-              }
-            ],
-            "2014": [
-              {
-                "Tahun":"2014",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "data": "428.473,6"
-              },
-              {
-                "Tahun":"2014",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "data": "10.565.817,3"
-              }
-            ],
-            "2015": [
-              {
-                "Tahun":"2015",
-                "wilayah": "Provinsi",
-                "name": "Banten",
-                "tingkat": "satu",
-                "data": "477.936,5"
-              },
-              {
-                "Tahun":"2015",
-                "wilayah": "Negara",
-                "name": "Indonesia",
-                "tingkat": "pusat",
-                "data": "11.540.789,8"
-              }
-            ]
-          }
-        ]
-      }
+  {
+    "chartdata": {
+      "grafik": [
+        {
+          "tingkat": "Provinsi",
+          "name": "Banten",
+          "tahun": [
+            {
+              "2010": 271465,
+              "2011": 306174,
+              "2012": 338224,
+              "2013": 377836,
+              "2014": 428473,
+              "2015": 477936
+            }
+          ]
+        },
+        {
+          "tingkat": "Negara",
+          "name": "Indonesia",
+          "tahun": [
+            {
+              "2010": 6864133,
+              "2011": 7831726,
+              "2012": 8615704,
+              "2013": 9546134,
+              "2014": 10565817,
+              "2015": 11540789
+            }
+          ]
+        }
+      ]
     }
-  ]
+  }
+]
