@@ -1,2 +1,2 @@
-# PRDB per Kapita
-Product regional domestic bruto (PDRB) per kapita
+# PDRB per Kapita
+Product domestic regional bruto (PDRB) per kapita
