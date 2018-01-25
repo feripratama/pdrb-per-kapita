@@ -1,8 +1,8 @@
 {
-    "name": "bantenprov/prdb-per-kapita",
-    "description": "Product regional domestic bruto (PDRB) per kapita",
+    "name": "bantenprov/pdrb-per-kapita",
+    "description": "Product domestic regional bruto (PDRB) per kapita",
     "type": "library",
-    "homepage": "https://github.com/bantenprov/prdb-per-kapita",
+    "homepage": "https://github.com/bantenprov/pdrb-per-kapita",
     "authors": [{
         "name": "bantenprov",
         "email": "developer.bantenprov@gmail.com",
@@ -10,9 +10,9 @@
     }],
     "license": "MIT",
     "support": {
-      "source": "https://github.com/bantenprov/prdb-per-kapita,",
-      "issues": "https://github.com/bantenprov/prdb-per-kapita/issues",
-      "wiki": "https://github.com/bantenprov/prdb-per-kapita/wiki"
+      "source": "https://github.com/bantenprov/pdrb-per-kapita,",
+      "issues": "https://github.com/bantenprov/pdrb-per-kapita/issues",
+      "wiki": "https://github.com/bantenprov/pdrb-per-kapita/wiki"
     },
     "require": {
         "php": ">=5.6.4",
