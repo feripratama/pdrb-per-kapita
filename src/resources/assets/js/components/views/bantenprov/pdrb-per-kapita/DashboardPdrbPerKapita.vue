@@ -52,7 +52,7 @@
           <div class="card mb-3">
             <div class="card-header">
               <i class="fa fa-bar-chart" aria-hidden="true"></i>
-              PDRB Harga Dasar Berdasarkan Wilayah
+              PDRB Per Kapita Berdasarkan Wilayah
             </div>
             <div class="card-body">
               <pdrb-per-kapita-bar-01></pdrb-per-kapita-bar-01>
@@ -65,7 +65,7 @@
           <div class="card mb-3">
             <div class="card-header">
               <i class="fa fa-pie-chart" aria-hidden="true"></i>
-              PDRB Harga Dasar Berdasarkan Wilayah
+              PDRB Per Kapita Berdasarkan Wilayah
             </div>
             <div class="card-body">
               <pdrb-per-kapita-pie-01></pdrb-per-kapita-pie-01>
@@ -80,7 +80,7 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            PDRB Harga Dasar Berdasarkan Tahun
+            PDRB Per Kapita Berdasarkan Tahun
           </div>
           <div class="card-body">
             <pdrb-per-kapita-bar-02></pdrb-per-kapita-bar-02>
@@ -140,7 +140,7 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            PDRB Harga Dasar Berdasarkan Tahun
+            PDRB Per Kapita Berdasarkan Tahun
           </div>
           <div class="card-body">
             <pdrb-per-kapita-pie-02></pdrb-per-kapita-pie-02>
